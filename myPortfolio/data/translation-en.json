@@ -1,0 +1,73 @@
+{
+	"phone": "Phone",
+
+	"Menu": {
+		"nav-1" : "Home",
+		"nav-2" : "My Services",
+		"nav-3" : "How I work",
+		"nav-4" : "Technology",
+		"nav-5" : "My work",
+		"nav-6" : "Testimonials",
+		"nav-7" : "Contact Me"
+	},
+
+	"MyTitle": "Hi, I'm a professional in web-development!",
+	"MyDescription" : "Carry out projects of any complexity",
+
+	"Form": {
+		"title": "Application",
+		"description": "Complete this form and send it, so I'll call to you",
+		"Name": "Name",
+		"Phone": "Phone",
+		"PhName": "Enter a name ...",
+		"PhPhone": "Enter the phone ...",
+		"PhMessage": "Enter the message ...",
+		"buttonCall": "Order a call",
+		"buttonMessage": "Send Message",
+		"buttonSend": "Send"
+	},
+
+	"MyService": {
+		"titleSpan": "My",
+		"title": "services",
+		"landingDescrBold": "This is a landing page which",
+		"landingDescr" : "encourages customers to a particular action, namely register, buy, subscribe, call, etc. Its main goal is to catch and keep the user on here.",
+		"siteCard": "Site-card",
+		"siteCardgDescrBold": "The site that",
+		"siteCardgDescr": "consists of several pages containing information about your activities, your services and contact information for potential customers. He is a complete virtual resource with a unique design and decoration.",
+		"siteIndividual": "Personal idea",
+		"siteIndividualDescrBold": "One of the most popular types of web-sites on",
+		"siteIndividualDescrSpan": "Your personal idea",
+		"siteIndividualDescr1": ", as used in the creation of his",
+		"siteIndividualDescr2": ", making it a wonderful and unique."
+	},
+
+	"HowIWork": {
+		"titleSpan": "work",
+		"title": "How I ",
+		"item-1" : "Fill a form",
+		"item-2" : "Reconciliation of work and signature contract",
+		"item-3" : "Creation of design",
+		"item-4" : "Site development",
+		"item-5" : "Testing and adjustment",
+		"item-6" : "Starting and site transfer customer",
+		"button" : "Fill a form"
+	},
+
+	"Technology": {
+		"title": "Technology",
+		"description" : "In developing the project I'm using advanced technologies of web-programming"
+	},
+
+	"MyWork": "My work",
+
+	"Feedback": "Testimonials",
+
+	"ContactMe": "Contact Me",
+
+	"Success" : {
+		"text-1" : "Thanks for your application!",
+		"text-2" : "I'll get back to you soon."
+	}
+
+}
