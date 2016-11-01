@@ -66,8 +66,12 @@ $(document).ready(function($) {
 	});
 
 /*Scrolling for menu*/
-	$(".arrow-down, a[href='#sec-1']").click(function() {
+	$("a[href='#section-1']").click(function() {
 		$("html, body").animate({ scrollTop: $('.section-1').offset().top+10 }, 1000);
+	});
+
+	$("a[href='#sec-1']").click(function() {
+		$("html, body").animate({ scrollTop: $('.section-1').offset().top }, 1000);
 	});
 
 	$("a[href='#sec-2']").click(function() {
